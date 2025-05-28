@@ -78,11 +78,11 @@ Run → Run As → Java Application → select MineSweeperGUI.java
 
 | Mode       | Board Size | Bombs |
 | ---------- | ---------- | ----- |
-| Easy       | 10 × 10    | 10    |
-| Medium     | 16 × 16    | 40    |
-| Hard       | 30 × 16    | 99    |
-| Super Hard | 50 × 30    | 300   |
-| Impossible | 100 × 50   | 1000  |
+| Easy       | 8 × 8      | 10    |
+| Medium     | 10 × 10    | 25    |
+| Hard       | 16 × 16    | 40    |
+| Super Hard | 24 × 24    | 200   |
+| Impossible | 30 × 30    | 300   |
 
 > To add or tweak modes, open `MineSweeperGUI.java`, locate the `enum Difficulty { … }` block, and customize rows, columns, and bomb count.
 
