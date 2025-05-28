@@ -38,8 +38,9 @@ A Java-based Minesweeper clone with a Swing GUI, multiple difficulty modes, cust
 
 ## Demo
 
-![Easy Mode Screenshot](images/demo_easy.png)
-*Fig. 1: Easy mode board in action.*
+<video src="videos/demo.mp4" controls autoplay loop muted width="600">
+  Your browser does not support the video tag.
+</video>
 
 > ⚠️ **Images folder warning**
 > You **must** clone or download the entire `images/` directory at the root—otherwise these in-README previews and the in-game icons won’t load.
