@@ -38,9 +38,8 @@ A Java-based Minesweeper clone with a Swing GUI, multiple difficulty modes, cust
 
 ## Demo
 
-<video src="videos/demo.mp4" controls autoplay loop muted width="600">
-  Your browser does not support the video tag.
-</video>
+[▶️ Watch the 8 s Minesweeper demo](videos/demo.mp4)
+
 
 > ⚠️ **Images folder warning**
 > You **must** clone or download the entire `images/` directory at the root—otherwise these in-README previews and the in-game icons won’t load.
