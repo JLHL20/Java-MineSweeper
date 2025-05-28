@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper Game
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/Minesweeper/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
