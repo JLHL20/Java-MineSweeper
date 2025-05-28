@@ -38,7 +38,7 @@ A Java-based Minesweeper clone with a Swing GUI, multiple difficulty modes, cust
 
 ## Demo
 
-🎥 [Watch the 8 s Minesweeper demo on Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1m1js0fJ8WE323y48bWKhJ0GJ0Mgz_Zim/view?usp=sharing))
+[![Watch the demo](images/demo_thumbnail.png)]([https://drive.google.com/…](https://drive.google.com/file/d/1m1js0fJ8WE323y48bWKhJ0GJ0Mgz_Zim/view?usp=sharing))
 
 > ⚠️ **Images folder warning**
 > You **must** clone or download the entire `images/` directory at the root—otherwise these in-README previews and the in-game icons won’t load.
