@@ -102,7 +102,6 @@ Minesweeper/
 │   ├── bomb.png
 │   ├── flag.png
 │   ├── 1.png … 8.png
-│   └── demo_easy.png
 ├── src/
 │   ├── Grid.java            ← game-logic: board, neighbor counts, flood-fill
 │   └── MineSweeperGUI.java  ← Swing UI, menus, event handlers
