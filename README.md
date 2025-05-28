@@ -1,6 +1,6 @@
 # Minesweeper Game
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/JLHL20/Minesweeper/ci.yml)
+![Build Status](https://img.shields.io/github/actions/workflow/status/JLHL20/Java-MineSweeper/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A Java-based Minesweeper clone with a Swing GUI, multiple difficulty modes, custom icons, and right-click flagging.
