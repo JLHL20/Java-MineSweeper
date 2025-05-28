@@ -20,7 +20,10 @@ jobs:
       - name: Compile
         run: |
           mkdir -p out
-          javac -d out src/*.java
+          # list all .java files into sources.txt
+          find . -name '*.java' > sources.txt
+          # compile them all into out/
+          javac -d out @sources.txt
 
       - name: Smoke-test run
         run: |
